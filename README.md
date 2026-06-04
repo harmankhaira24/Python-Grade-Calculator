@@ -1,6 +1,6 @@
 ##  💚 Python Grade Calculator
 
-### *Transforming marks into meaningful results.*
+### *Transforming marks into results.*
 
 A Python project that calculates student averages, percentages, and grades with accuracy and simplicity.
 
