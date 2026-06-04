@@ -2,23 +2,21 @@
 
 ### *Transforming marks into meaningful results.*
 
-A beginner-friendly Python project that calculates student averages, percentages, and grades with accuracy and simplicity.
-
-Built as part of my programming journey, this project helped me strengthen my understanding of programming logic, calculations, and decision-making in Python.
+A Python project that calculates student averages, percentages, and grades with accuracy and simplicity.
 
 ---
 
 ##  🐍 Features
 
-🍃 Calculate average marks automatically
+* Calculate average marks automatically
 
-🌿 Generate percentage results
+* Generate percentage results
 
-🍀 Determine grades based on performance
+* Determine grades based on performance
 
-🌱 Simple and user-friendly design
+* Simple and user-friendly design
 
-🍃 Beginner-friendly Python implementation
+* Beginner-friendly Python implementation
 
 ---
 
@@ -31,15 +29,15 @@ Built as part of my programming journey, this project helped me strengthen my un
 
 ##  🐍 What I Learned
 
-🌱 Variables and Data Types
+* Variables and Data Types
 
-🍃 User Input Handling
+* User Input Handling
 
-🌿 Conditional Statements
+* Conditional Statements
 
-🍀 Mathematical Calculations
+* Mathematical Calculations
 
-🌱 Problem Solving with Python
+* Problem Solving with Python
 
 ---
 
